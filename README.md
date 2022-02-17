@@ -3,7 +3,8 @@
 * Assigned: 2/18
 * Due: 3/4 10:00AM
 * Worth 3.75% of your grade
-* Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
+* Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**. 
+Please assign the correct pages to the different questions; failure to do so may be penalized.
 
 
 ## Submission
