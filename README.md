@@ -44,7 +44,7 @@ Construct relational algebra for the following queries:
 
 ## 2. More Relational Algebra
 
-**(2 point each, 10 points total)**
+**(2 point each, 12 points total)**
 
 T1
 
