@@ -6,6 +6,9 @@
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**. 
 Please assign the correct pages to the different questions; failure to do so may be penalized.
 
+### Changelog
+* 2/21: For join between two tables with the same attribute name, please assume that the join result will change the ambiguous column names to be tablename.attributename. For example, the join between Person(**ssn**, companyid, salary, managerid) and Company(**companyid**, companyname, location) on companyid will have schema (ssn, Person.companyid, salary, managerid, Company.companyid, companyname, location).
+
 
 ## Submission
 
