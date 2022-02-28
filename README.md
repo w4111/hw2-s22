@@ -9,6 +9,7 @@ Please assign the correct pages to the different questions; failure to do so may
 ### Changelog
 * 2/21: For join between two tables with the same attribute name, please assume that the join result will change the ambiguous column names to be tablename.attributename. For example, the join between Person(**ssn**, companyid, salary, managerid) and Company(**companyid**, companyname, location) on companyid will have schema (ssn, Person.companyid, salary, managerid, Company.companyid, companyname, location).
 
+* 2/28: Problem 3.3 has been updated because division operator is not taugt in class.
 
 ## Submission
 
@@ -109,4 +110,4 @@ Second, translate the following relational algebra expressions in SQL. Make sure
 
 2. π<sub>s_name</sub>(((σ<sub>g_name = "pencil"</sub>Goods) ⨝ Supply) ⨝ Store)
 
-3. π<sub>s_name, city</sub>((Supply/π<sub>g_id</sub>(σ<sub>storeid='0808'</sub>(Supply)))⨝ Store)
+3. π<sub>s_name, city</sub>((σ<sub>price>1000</sub>(Supply ⨝ Goods))⨝ Store)
