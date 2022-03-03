@@ -11,6 +11,8 @@ Please assign the correct pages to the different questions; failure to do so may
 
 * 2/28: Problem 3.3 has been updated because the division operator is not taught in class. For problem 1, aggregation has been **disallowed** for relational algebra. The Overleaf latex template has been updated for relational algebra symbols allowed.
 
+* 3/2: HW2 won't accept submission after 3/5 10:00 AM EST because we will release solution on 3/5.
+
 ## Submission
 
 1. You will write your answers using the [following Overleaf latex template](https://www.overleaf.com/read/mvhfmrqpnqbs). Clone the template and edit it.   Hand writing or alternative submission formats are NOT accecptable.
